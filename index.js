@@ -3,4 +3,4 @@ const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + "!";
 
 const excitedWelcomeMessage = 'WELCOME TO FLATBOOK, ';
 let upperCaseCurrentUser = 'John';
-const upperCaseCurrentUser = currentUser.toUpperCase (currentUser);
+const upperCaseCurrentUser = currentUser.toUpperCase ("John");
