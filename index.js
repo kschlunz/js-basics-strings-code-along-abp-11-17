@@ -1,1 +1,3 @@
-let currentUser = "John";// Write your code in this file!
+let currentUser = "John";
+const welcomeMessage = "Welcome to Flatbook";
+// Write your code in this file!
